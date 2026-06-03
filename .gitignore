@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# C++ / HIP builds
+*.o
+*.out
+*.exe
+*.obj
+*.hipfb
+
+# Env
+.env
+.env.*
+
+# OS
+Thumbs.db
+.DS_Store
+desktop.ini
